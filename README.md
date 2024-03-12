@@ -6,11 +6,12 @@ Welcome to the GitHub repository for my Amazon clone home page! This project is 
 - **HTML:** Structure and content markup.
 - **CSS:** Styling and layout design.
 
-## How to View:
+<h1 align="Center">Desktop View</h1>
+<hr/>
+<h4>Image: 1</h4><br/>
+<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page/blob/main/Amazon-Desktop-Design.png"/>
+<br/>
 
-1. Clone the repository.
-2. Open the `index.html` file in your web browser.
+<h4>Image: 2</h4><br/>
+<img width=100% src="https://github.com/Mr-Sudarshan-Patil/Amazon-Clone---Home-Page/blob/main/Amazon-Desktop-Design2.png"/>
 
-Feel free to explore the code and provide feedback. If you have any suggestions or improvements, please create a new issue or submit a pull request.
-
-Happy coding!
